@@ -1,2 +1,2 @@
 # terraform_templates
-A collection of robottest templates for API testing
+A collection of terraform templates for server provisioning
